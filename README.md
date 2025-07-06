@@ -3,8 +3,9 @@
 This project focuses on predicting the likelihood of lung cancer using supervised machine learning techniques. The dataset is derived from a lung cancer survey and includes various risk-related factors such as age, smoking, and anxiety levels.
 
 Two Jupyter Notebooks are provided:
-- **Lung Cancer Prediction.ipynb** – Basic model implementation
-- **Lung_cancer_V.ipynb** – Enhanced version with additional preprocessing and SMOTE balancing
+- **Lung_cancer_V.ipynb** – Basic model implementation
+- **Lung Cancer Prediction.ipynb** – Enhanced version with additional preprocessing and SMOTE balancing
+
 
 ---
 
