@@ -79,5 +79,5 @@ Accuracy of Models:
 
 ## 📬 Contact
 
-Created by **Sinan Muhammed**  
+Created by **Sinan Marakkanangoot**  
 Feel free to connect with me on [LinkedIn : https://www.linkedin.com/in/sinanmuhd/ ]
